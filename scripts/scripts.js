@@ -13,8 +13,9 @@ import {
   loadCSS,
 } from './lib-franklin.js';
 
-
 const LCP_BLOCKS = []; // add your LCP blocks to the list
+
+// test 1
 
 /**
  * Builds hero block and prepends to main in a new section.
