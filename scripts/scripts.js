@@ -15,7 +15,7 @@ import {
 
 const LCP_BLOCKS = []; // add your LCP blocks to the list
 
-// test 3
+// test 4
 
 /**
  * Builds hero block and prepends to main in a new section.
